@@ -1,4 +1,4 @@
-<img src="screenshots/Screenshot_20250910_230318" alt="Logo" width="200"/>
+<img src="screenshots/Screenshot_20250910_230318.png" alt="Logo" width="200"/>
 <img src="screenshots/Screenshot_20250910_230303" alt="Logo" width="200"/>
 <img src="screenshots/Screenshot_20250910_230043" alt="Logo" width="200"/>
 <img src="screenshots/Screenshot_20250910_230036" alt="Logo" width="200"/>
