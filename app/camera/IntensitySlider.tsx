@@ -19,7 +19,7 @@ const IntensitySlider: React.FC<IntensitySliderProps> = ({
 
       <Slider
         style={{ width: "100%" }}
-        minimumValue={0}
+        minimumValrue={0}
         maximumValue={1}
         value={value}
         onValueChange={onValueChange}
